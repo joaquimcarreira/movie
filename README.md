@@ -9,11 +9,11 @@
 
 #### The preprocessing is the result of the systematic iteration between the data exploration and the model. The final preprocessing is as follows
 
-
+![](pre-processing.png)
 
 #### After trying different models, so far the most promising is RandomForest.
 
-
+![](model.png)
 
 #### Main difficulties: 
 - Number of categorical variables and their format "many to many".
@@ -29,3 +29,4 @@ Convert categorical variables to "longForm" format. Apparently it added more noi
 
 #### The results are far from conclusive, but they do serve as a kick to go deeper.
 
+![](results.png)
