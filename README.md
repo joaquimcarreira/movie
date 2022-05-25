@@ -27,6 +27,6 @@
 Convert categorical variables to "longForm" format. Apparently it added more noise than anything else, confusing the models and getting worse results.
 
 
-#### The results are far from conclusive, but they do serve as a kick to go deeper.
+#### The results are far from conclusive and im still working on improving the models, but this still do serves as a kick to go deeper.
 
 ![](results.png)
